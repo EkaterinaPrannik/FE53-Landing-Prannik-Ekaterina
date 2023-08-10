@@ -1,0 +1,64 @@
+.pricing {
+    background: #F5F5F5;
+    padding: 80px 0 60px 0;
+}
+.pricing__title{
+    color: #212121;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    text-transform: uppercase;
+    margin-bottom: 34px;
+}
+.pricing__description{
+    color: #86878B;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 62px;
+}
+.pricing__wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+.pricing__card{
+    width: 340px;
+   ;
+}
+.pricing__item{
+    background-color: #333;
+    color: #fff;
+    margin-bottom: 1px;
+    text-align: center;
+}
+.rate {
+    padding: 12px 144px;
+
+}
+.price{
+    padding: 26px 136px 34px 144px;
+    font-family: Raleway;
+    font-size: 35px;
+    font-weight: 700;
+}
+.free {
+    color: rgba(255, 255, 255, 0.50);
+    font-family: Open Sans;
+    font-size: 14px;
+    font-weight: 400;
+    padding: 14px 126px 18px 136px;
+}
+.pricing__value {
+    color: #86878B;
+    font-family: Open Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 10px 122px 10px 132px;
+    background-color: #fff;
+    margin-bottom: 2px;
+}
